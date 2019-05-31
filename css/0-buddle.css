@@ -1,0 +1,22 @@
+
+#bdMap[data-v-0d26af56] {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#bdMap_1[data-v-0d26af56], #bdMap_2[data-v-0d26af56]{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.toolBox[data-v-0d26af56] {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    background: #fff;
+    padding: 3px 8px;
+    border-radius: 10px;
+}
+
